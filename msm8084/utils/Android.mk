@@ -46,8 +46,6 @@ LOCAL_LICENSE_CONDITIONS := notice
 
 LOCAL_MODULE_TAGS := optional
 
-LOCAL_PRELINK_MODULE := false
-
 include $(BUILD_SHARED_LIBRARY)
 
 include $(CLEAR_VARS)
